@@ -1,6 +1,5 @@
 # The wildfire Detection Project Week-1
 The Wildfire Detection project aims to build an AI-based image classification system that automatically detects the presence of wildfire in images. Using deep learning and computer vision techniques, the model learns to distinguish between “fire” and “no fire” scenes from a dataset of real-world wildfire and non-fire images.
-Week 1: Requirements & Design
 
 🎯 Objective:
 To develop a simple yet effective wildfire detection model capable of classifying images as fire or no fire, demonstrating the potential of AI for environmental monitoring and early warning systems
